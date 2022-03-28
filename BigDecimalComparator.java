@@ -11,7 +11,7 @@ import java.math.BigDecimal;
 @RequiredArgsConstructor
 public final class BigDecimalComparator {
 
-  private final BigDecimal bigDecimal;
+  	private final BigDecimal bigDecimal;
 
 	/**
 	 * target값과 같은지 비교한다.
